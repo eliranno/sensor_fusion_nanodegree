@@ -16,6 +16,8 @@ processPointClouds.h
 processPointClouds.cpp
 /home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
 
+/home/workspace/SFND_Lidar_Obstacle_Detection/src/kdtree.h
+
 /home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
 processPointClouds.h
 /home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
@@ -51,6 +53,10 @@ chrono
 -
 render/box.h
 /home/workspace/SFND_Lidar_Obstacle_Detection/src/render/box.h
+unordered_set
+-
+kdtree.h
+/home/workspace/SFND_Lidar_Obstacle_Detection/src/kdtree.h
 
 /home/workspace/SFND_Lidar_Obstacle_Detection/src/render/box.h
 Eigen/Geometry
